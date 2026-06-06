@@ -1,0 +1,15 @@
+D:\C#\B_Class_Object\a_class_and_object\obj\Debug\net10.0\a_class_and_object.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\B_Class_Object\a_class_and_object\obj\Debug\net10.0\a_class_and_object.AssemblyInfoInputs.cache
+D:\C#\B_Class_Object\a_class_and_object\obj\Debug\net10.0\a_class_and_object.AssemblyInfo.cs
+D:\C#\B_Class_Object\a_class_and_object\obj\Debug\net10.0\a_class_and_object.csproj.CoreCompileInputs.cache
+D:\C#\B_Class_Object\a_class_and_object\obj\Debug\net10.0\a_class_and_object.sourcelink.json
+D:\C#\B_Class_Object\a_class_and_object\bin\Debug\net10.0\a_class_and_object.exe
+D:\C#\B_Class_Object\a_class_and_object\bin\Debug\net10.0\a_class_and_object.deps.json
+D:\C#\B_Class_Object\a_class_and_object\bin\Debug\net10.0\a_class_and_object.runtimeconfig.json
+D:\C#\B_Class_Object\a_class_and_object\bin\Debug\net10.0\a_class_and_object.dll
+D:\C#\B_Class_Object\a_class_and_object\bin\Debug\net10.0\a_class_and_object.pdb
+D:\C#\B_Class_Object\a_class_and_object\obj\Debug\net10.0\a_class_and_object.dll
+D:\C#\B_Class_Object\a_class_and_object\obj\Debug\net10.0\refint\a_class_and_object.dll
+D:\C#\B_Class_Object\a_class_and_object\obj\Debug\net10.0\a_class_and_object.pdb
+D:\C#\B_Class_Object\a_class_and_object\obj\Debug\net10.0\a_class_and_object.genruntimeconfig.cache
+D:\C#\B_Class_Object\a_class_and_object\obj\Debug\net10.0\ref\a_class_and_object.dll

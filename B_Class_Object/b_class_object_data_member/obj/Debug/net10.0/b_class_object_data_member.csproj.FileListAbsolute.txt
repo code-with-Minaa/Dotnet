@@ -1,0 +1,15 @@
+D:\C#\B_Class_Object\b_class_object_data_member\bin\Debug\net10.0\b_class_object_data_member.exe
+D:\C#\B_Class_Object\b_class_object_data_member\bin\Debug\net10.0\b_class_object_data_member.deps.json
+D:\C#\B_Class_Object\b_class_object_data_member\bin\Debug\net10.0\b_class_object_data_member.runtimeconfig.json
+D:\C#\B_Class_Object\b_class_object_data_member\bin\Debug\net10.0\b_class_object_data_member.dll
+D:\C#\B_Class_Object\b_class_object_data_member\bin\Debug\net10.0\b_class_object_data_member.pdb
+D:\C#\B_Class_Object\b_class_object_data_member\obj\Debug\net10.0\b_class_object_data_member.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\B_Class_Object\b_class_object_data_member\obj\Debug\net10.0\b_class_object_data_member.AssemblyInfoInputs.cache
+D:\C#\B_Class_Object\b_class_object_data_member\obj\Debug\net10.0\b_class_object_data_member.AssemblyInfo.cs
+D:\C#\B_Class_Object\b_class_object_data_member\obj\Debug\net10.0\b_class_object_data_member.csproj.CoreCompileInputs.cache
+D:\C#\B_Class_Object\b_class_object_data_member\obj\Debug\net10.0\b_class_object_data_member.sourcelink.json
+D:\C#\B_Class_Object\b_class_object_data_member\obj\Debug\net10.0\b_class_object_data_member.dll
+D:\C#\B_Class_Object\b_class_object_data_member\obj\Debug\net10.0\refint\b_class_object_data_member.dll
+D:\C#\B_Class_Object\b_class_object_data_member\obj\Debug\net10.0\b_class_object_data_member.pdb
+D:\C#\B_Class_Object\b_class_object_data_member\obj\Debug\net10.0\b_class_object_data_member.genruntimeconfig.cache
+D:\C#\B_Class_Object\b_class_object_data_member\obj\Debug\net10.0\ref\b_class_object_data_member.dll
