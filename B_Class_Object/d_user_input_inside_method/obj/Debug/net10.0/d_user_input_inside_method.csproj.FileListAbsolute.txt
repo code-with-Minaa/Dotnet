@@ -1,0 +1,15 @@
+D:\C#\B_Class_Object\d_user_input_inside_method\bin\Debug\net10.0\d_user_input_inside_method.exe
+D:\C#\B_Class_Object\d_user_input_inside_method\bin\Debug\net10.0\d_user_input_inside_method.deps.json
+D:\C#\B_Class_Object\d_user_input_inside_method\bin\Debug\net10.0\d_user_input_inside_method.runtimeconfig.json
+D:\C#\B_Class_Object\d_user_input_inside_method\bin\Debug\net10.0\d_user_input_inside_method.dll
+D:\C#\B_Class_Object\d_user_input_inside_method\bin\Debug\net10.0\d_user_input_inside_method.pdb
+D:\C#\B_Class_Object\d_user_input_inside_method\obj\Debug\net10.0\d_user_input_inside_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\B_Class_Object\d_user_input_inside_method\obj\Debug\net10.0\d_user_input_inside_method.AssemblyInfoInputs.cache
+D:\C#\B_Class_Object\d_user_input_inside_method\obj\Debug\net10.0\d_user_input_inside_method.AssemblyInfo.cs
+D:\C#\B_Class_Object\d_user_input_inside_method\obj\Debug\net10.0\d_user_input_inside_method.csproj.CoreCompileInputs.cache
+D:\C#\B_Class_Object\d_user_input_inside_method\obj\Debug\net10.0\d_user_input_inside_method.sourcelink.json
+D:\C#\B_Class_Object\d_user_input_inside_method\obj\Debug\net10.0\d_user_input_inside_method.dll
+D:\C#\B_Class_Object\d_user_input_inside_method\obj\Debug\net10.0\refint\d_user_input_inside_method.dll
+D:\C#\B_Class_Object\d_user_input_inside_method\obj\Debug\net10.0\d_user_input_inside_method.pdb
+D:\C#\B_Class_Object\d_user_input_inside_method\obj\Debug\net10.0\d_user_input_inside_method.genruntimeconfig.cache
+D:\C#\B_Class_Object\d_user_input_inside_method\obj\Debug\net10.0\ref\d_user_input_inside_method.dll

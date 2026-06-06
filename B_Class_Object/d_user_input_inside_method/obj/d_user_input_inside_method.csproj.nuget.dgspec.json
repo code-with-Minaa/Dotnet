@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\C#\\B_Class_Object\\b_class_object_data_member\\b_class_object_data_member.csproj": {}
+    "D:\\C#\\B_Class_Object\\d_user_input_inside_method\\d_user_input_inside_method.csproj": {}
   },
   "projects": {
-    "d:\\C#\\B_Class_Object\\b_class_object_data_member\\b_class_object_data_member.csproj": {
+    "D:\\C#\\B_Class_Object\\d_user_input_inside_method\\d_user_input_inside_method.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\C#\\B_Class_Object\\b_class_object_data_member\\b_class_object_data_member.csproj",
-        "projectName": "b_class_object_data_member",
-        "projectPath": "d:\\C#\\B_Class_Object\\b_class_object_data_member\\b_class_object_data_member.csproj",
+        "projectUniqueName": "D:\\C#\\B_Class_Object\\d_user_input_inside_method\\d_user_input_inside_method.csproj",
+        "projectName": "d_user_input_inside_method",
+        "projectPath": "D:\\C#\\B_Class_Object\\d_user_input_inside_method\\d_user_input_inside_method.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\C#\\B_Class_Object\\b_class_object_data_member\\obj\\",
+        "outputPath": "D:\\C#\\B_Class_Object\\d_user_input_inside_method\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
