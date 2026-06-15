@@ -1,0 +1,15 @@
+D:\C#\C_Data_Types\a_value_type\bin\Debug\net10.0\a_value_type.exe
+D:\C#\C_Data_Types\a_value_type\bin\Debug\net10.0\a_value_type.deps.json
+D:\C#\C_Data_Types\a_value_type\bin\Debug\net10.0\a_value_type.runtimeconfig.json
+D:\C#\C_Data_Types\a_value_type\bin\Debug\net10.0\a_value_type.dll
+D:\C#\C_Data_Types\a_value_type\bin\Debug\net10.0\a_value_type.pdb
+D:\C#\C_Data_Types\a_value_type\obj\Debug\net10.0\a_value_type.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C_Data_Types\a_value_type\obj\Debug\net10.0\a_value_type.AssemblyInfoInputs.cache
+D:\C#\C_Data_Types\a_value_type\obj\Debug\net10.0\a_value_type.AssemblyInfo.cs
+D:\C#\C_Data_Types\a_value_type\obj\Debug\net10.0\a_value_type.csproj.CoreCompileInputs.cache
+D:\C#\C_Data_Types\a_value_type\obj\Debug\net10.0\a_value_type.sourcelink.json
+D:\C#\C_Data_Types\a_value_type\obj\Debug\net10.0\a_value_type.dll
+D:\C#\C_Data_Types\a_value_type\obj\Debug\net10.0\refint\a_value_type.dll
+D:\C#\C_Data_Types\a_value_type\obj\Debug\net10.0\a_value_type.pdb
+D:\C#\C_Data_Types\a_value_type\obj\Debug\net10.0\a_value_type.genruntimeconfig.cache
+D:\C#\C_Data_Types\a_value_type\obj\Debug\net10.0\ref\a_value_type.dll

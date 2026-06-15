@@ -1,0 +1,15 @@
+D:\C#\C_Data_Types\b_value_type_boolean\bin\Debug\net10.0\b_value_type_boolean.exe
+D:\C#\C_Data_Types\b_value_type_boolean\bin\Debug\net10.0\b_value_type_boolean.deps.json
+D:\C#\C_Data_Types\b_value_type_boolean\bin\Debug\net10.0\b_value_type_boolean.runtimeconfig.json
+D:\C#\C_Data_Types\b_value_type_boolean\bin\Debug\net10.0\b_value_type_boolean.dll
+D:\C#\C_Data_Types\b_value_type_boolean\bin\Debug\net10.0\b_value_type_boolean.pdb
+D:\C#\C_Data_Types\b_value_type_boolean\obj\Debug\net10.0\b_value_type_boolean.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C_Data_Types\b_value_type_boolean\obj\Debug\net10.0\b_value_type_boolean.AssemblyInfoInputs.cache
+D:\C#\C_Data_Types\b_value_type_boolean\obj\Debug\net10.0\b_value_type_boolean.AssemblyInfo.cs
+D:\C#\C_Data_Types\b_value_type_boolean\obj\Debug\net10.0\b_value_type_boolean.csproj.CoreCompileInputs.cache
+D:\C#\C_Data_Types\b_value_type_boolean\obj\Debug\net10.0\b_value_type_boolean.sourcelink.json
+D:\C#\C_Data_Types\b_value_type_boolean\obj\Debug\net10.0\b_value_type_boolean.dll
+D:\C#\C_Data_Types\b_value_type_boolean\obj\Debug\net10.0\refint\b_value_type_boolean.dll
+D:\C#\C_Data_Types\b_value_type_boolean\obj\Debug\net10.0\b_value_type_boolean.pdb
+D:\C#\C_Data_Types\b_value_type_boolean\obj\Debug\net10.0\b_value_type_boolean.genruntimeconfig.cache
+D:\C#\C_Data_Types\b_value_type_boolean\obj\Debug\net10.0\ref\b_value_type_boolean.dll
