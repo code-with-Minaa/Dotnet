@@ -1,0 +1,15 @@
+D:\C#\C_Data_Types\f_reference_type_object\bin\Debug\net10.0\f_reference_type_object.exe
+D:\C#\C_Data_Types\f_reference_type_object\bin\Debug\net10.0\f_reference_type_object.deps.json
+D:\C#\C_Data_Types\f_reference_type_object\bin\Debug\net10.0\f_reference_type_object.runtimeconfig.json
+D:\C#\C_Data_Types\f_reference_type_object\bin\Debug\net10.0\f_reference_type_object.dll
+D:\C#\C_Data_Types\f_reference_type_object\bin\Debug\net10.0\f_reference_type_object.pdb
+D:\C#\C_Data_Types\f_reference_type_object\obj\Debug\net10.0\f_reference_type_object.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C_Data_Types\f_reference_type_object\obj\Debug\net10.0\f_reference_type_object.AssemblyInfoInputs.cache
+D:\C#\C_Data_Types\f_reference_type_object\obj\Debug\net10.0\f_reference_type_object.AssemblyInfo.cs
+D:\C#\C_Data_Types\f_reference_type_object\obj\Debug\net10.0\f_reference_type_object.csproj.CoreCompileInputs.cache
+D:\C#\C_Data_Types\f_reference_type_object\obj\Debug\net10.0\f_reference_type_object.sourcelink.json
+D:\C#\C_Data_Types\f_reference_type_object\obj\Debug\net10.0\f_reference_type_object.dll
+D:\C#\C_Data_Types\f_reference_type_object\obj\Debug\net10.0\refint\f_reference_type_object.dll
+D:\C#\C_Data_Types\f_reference_type_object\obj\Debug\net10.0\f_reference_type_object.pdb
+D:\C#\C_Data_Types\f_reference_type_object\obj\Debug\net10.0\f_reference_type_object.genruntimeconfig.cache
+D:\C#\C_Data_Types\f_reference_type_object\obj\Debug\net10.0\ref\f_reference_type_object.dll
