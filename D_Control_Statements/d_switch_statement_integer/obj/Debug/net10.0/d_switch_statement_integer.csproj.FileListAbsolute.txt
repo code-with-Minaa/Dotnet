@@ -1,0 +1,15 @@
+D:\C#\D_Control_Statements\d_switch_statement_integer\bin\Debug\net10.0\d_switch_statement_integer.exe
+D:\C#\D_Control_Statements\d_switch_statement_integer\bin\Debug\net10.0\d_switch_statement_integer.deps.json
+D:\C#\D_Control_Statements\d_switch_statement_integer\bin\Debug\net10.0\d_switch_statement_integer.runtimeconfig.json
+D:\C#\D_Control_Statements\d_switch_statement_integer\bin\Debug\net10.0\d_switch_statement_integer.dll
+D:\C#\D_Control_Statements\d_switch_statement_integer\bin\Debug\net10.0\d_switch_statement_integer.pdb
+D:\C#\D_Control_Statements\d_switch_statement_integer\obj\Debug\net10.0\d_switch_statement_integer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\D_Control_Statements\d_switch_statement_integer\obj\Debug\net10.0\d_switch_statement_integer.AssemblyInfoInputs.cache
+D:\C#\D_Control_Statements\d_switch_statement_integer\obj\Debug\net10.0\d_switch_statement_integer.AssemblyInfo.cs
+D:\C#\D_Control_Statements\d_switch_statement_integer\obj\Debug\net10.0\d_switch_statement_integer.csproj.CoreCompileInputs.cache
+D:\C#\D_Control_Statements\d_switch_statement_integer\obj\Debug\net10.0\d_switch_statement_integer.sourcelink.json
+D:\C#\D_Control_Statements\d_switch_statement_integer\obj\Debug\net10.0\d_switch_statement_integer.dll
+D:\C#\D_Control_Statements\d_switch_statement_integer\obj\Debug\net10.0\refint\d_switch_statement_integer.dll
+D:\C#\D_Control_Statements\d_switch_statement_integer\obj\Debug\net10.0\d_switch_statement_integer.pdb
+D:\C#\D_Control_Statements\d_switch_statement_integer\obj\Debug\net10.0\d_switch_statement_integer.genruntimeconfig.cache
+D:\C#\D_Control_Statements\d_switch_statement_integer\obj\Debug\net10.0\ref\d_switch_statement_integer.dll
