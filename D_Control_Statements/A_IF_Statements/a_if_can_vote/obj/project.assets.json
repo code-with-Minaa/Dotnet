@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\D_Control_Statements\\A_If_Statements\\a_if_can_vote\\a_if_can_vote.csproj",
+      "projectUniqueName": "d:\\C#\\D_Control_Statements\\A_If_Statements\\a_if_can_vote\\a_if_can_vote.csproj",
       "projectName": "a_if_can_vote",
-      "projectPath": "D:\\C#\\D_Control_Statements\\A_If_Statements\\a_if_can_vote\\a_if_can_vote.csproj",
+      "projectPath": "d:\\C#\\D_Control_Statements\\A_If_Statements\\a_if_can_vote\\a_if_can_vote.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\D_Control_Statements\\A_If_Statements\\a_if_can_vote\\obj\\",
+      "outputPath": "d:\\C#\\D_Control_Statements\\A_If_Statements\\a_if_can_vote\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
