@@ -1,0 +1,15 @@
+D:\C#\D_Control_Statements\C_Looping_Statements\b_while_odd\bin\Debug\net10.0\b_while_odd.exe
+D:\C#\D_Control_Statements\C_Looping_Statements\b_while_odd\bin\Debug\net10.0\b_while_odd.deps.json
+D:\C#\D_Control_Statements\C_Looping_Statements\b_while_odd\bin\Debug\net10.0\b_while_odd.runtimeconfig.json
+D:\C#\D_Control_Statements\C_Looping_Statements\b_while_odd\bin\Debug\net10.0\b_while_odd.dll
+D:\C#\D_Control_Statements\C_Looping_Statements\b_while_odd\bin\Debug\net10.0\b_while_odd.pdb
+D:\C#\D_Control_Statements\C_Looping_Statements\b_while_odd\obj\Debug\net10.0\b_while_odd.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\D_Control_Statements\C_Looping_Statements\b_while_odd\obj\Debug\net10.0\b_while_odd.AssemblyInfoInputs.cache
+D:\C#\D_Control_Statements\C_Looping_Statements\b_while_odd\obj\Debug\net10.0\b_while_odd.AssemblyInfo.cs
+D:\C#\D_Control_Statements\C_Looping_Statements\b_while_odd\obj\Debug\net10.0\b_while_odd.csproj.CoreCompileInputs.cache
+D:\C#\D_Control_Statements\C_Looping_Statements\b_while_odd\obj\Debug\net10.0\b_while_odd.sourcelink.json
+D:\C#\D_Control_Statements\C_Looping_Statements\b_while_odd\obj\Debug\net10.0\b_while_odd.dll
+D:\C#\D_Control_Statements\C_Looping_Statements\b_while_odd\obj\Debug\net10.0\refint\b_while_odd.dll
+D:\C#\D_Control_Statements\C_Looping_Statements\b_while_odd\obj\Debug\net10.0\b_while_odd.pdb
+D:\C#\D_Control_Statements\C_Looping_Statements\b_while_odd\obj\Debug\net10.0\b_while_odd.genruntimeconfig.cache
+D:\C#\D_Control_Statements\C_Looping_Statements\b_while_odd\obj\Debug\net10.0\ref\b_while_odd.dll
