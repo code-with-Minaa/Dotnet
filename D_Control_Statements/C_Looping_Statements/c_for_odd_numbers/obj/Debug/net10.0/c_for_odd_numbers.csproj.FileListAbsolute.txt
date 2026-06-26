@@ -1,0 +1,15 @@
+D:\C#\D_Control_Statements\C_Looping_Statements\c_for_odd_numbers\bin\Debug\net10.0\c_for_odd_numbers.exe
+D:\C#\D_Control_Statements\C_Looping_Statements\c_for_odd_numbers\bin\Debug\net10.0\c_for_odd_numbers.deps.json
+D:\C#\D_Control_Statements\C_Looping_Statements\c_for_odd_numbers\bin\Debug\net10.0\c_for_odd_numbers.runtimeconfig.json
+D:\C#\D_Control_Statements\C_Looping_Statements\c_for_odd_numbers\bin\Debug\net10.0\c_for_odd_numbers.dll
+D:\C#\D_Control_Statements\C_Looping_Statements\c_for_odd_numbers\bin\Debug\net10.0\c_for_odd_numbers.pdb
+D:\C#\D_Control_Statements\C_Looping_Statements\c_for_odd_numbers\obj\Debug\net10.0\c_for_odd_numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\D_Control_Statements\C_Looping_Statements\c_for_odd_numbers\obj\Debug\net10.0\c_for_odd_numbers.AssemblyInfoInputs.cache
+D:\C#\D_Control_Statements\C_Looping_Statements\c_for_odd_numbers\obj\Debug\net10.0\c_for_odd_numbers.AssemblyInfo.cs
+D:\C#\D_Control_Statements\C_Looping_Statements\c_for_odd_numbers\obj\Debug\net10.0\c_for_odd_numbers.csproj.CoreCompileInputs.cache
+D:\C#\D_Control_Statements\C_Looping_Statements\c_for_odd_numbers\obj\Debug\net10.0\c_for_odd_numbers.sourcelink.json
+D:\C#\D_Control_Statements\C_Looping_Statements\c_for_odd_numbers\obj\Debug\net10.0\c_for_odd_numbers.dll
+D:\C#\D_Control_Statements\C_Looping_Statements\c_for_odd_numbers\obj\Debug\net10.0\refint\c_for_odd_numbers.dll
+D:\C#\D_Control_Statements\C_Looping_Statements\c_for_odd_numbers\obj\Debug\net10.0\c_for_odd_numbers.pdb
+D:\C#\D_Control_Statements\C_Looping_Statements\c_for_odd_numbers\obj\Debug\net10.0\c_for_odd_numbers.genruntimeconfig.cache
+D:\C#\D_Control_Statements\C_Looping_Statements\c_for_odd_numbers\obj\Debug\net10.0\ref\c_for_odd_numbers.dll
