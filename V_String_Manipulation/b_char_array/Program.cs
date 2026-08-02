@@ -1,0 +1,12 @@
+﻿namespace b_char_array;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // array of characters
+        char[] namearray = { 'M', 'i', 'n', 'a' };
+        string name = new string(namearray);
+        Console.WriteLine(name);
+    }
+}
