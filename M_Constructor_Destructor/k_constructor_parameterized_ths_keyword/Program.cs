@@ -11,7 +11,7 @@ class Employee
     }
     static void Main(string[] args)
     {
-        Employee employee = new Employee("Priyanka Karki", 111);
+        Employee employee = new Employee("Dibya Basnet", 111);
         Console.WriteLine(employee.name + " " + employee.eid);
     }
 }
