@@ -8,6 +8,7 @@ class Program
         hashtable.Add("name","mina");
         hashtable.Add("address","Kadaghari");
         hashtable.Add("age","22");
+        hashtable.Add("email","mina123@gmail.com");
 
 
         Console.WriteLine("Hash Table elements are : ");
